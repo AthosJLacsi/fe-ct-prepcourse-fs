@@ -3,13 +3,13 @@
 //     sinBalon: ['Boxeo', 'Surf', 'Trekking'],
 // };
 
-var persona = {Nombre: 'Lucas', Edad: 26, Estudios: {EsProgramador: true} };
+// var persona = {Nombre: 'Lucas', Edad: 26, Estudios: {EsProgramador: true} };
 
 // console.log (persona.Edad);
-persona.Nombre = 'Martin';
+// persona.Nombre = 'Martin';
 
 // console.log(persona.Nombre);
-persona.Edad = 32;
+// persona.Edad = 32;
 
 // console.log(persona.Edad);
 
